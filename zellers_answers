@@ -1,0 +1,23 @@
+>>> 
+Please Enter Your First Name: Michael
+Please Enter your Last Name:Asare
+These are the months of the year 
+ March=1
+ April=2
+ May=3
+ June=4
+ July=5 
+ August=6
+ September=7
+ October=8 
+ November=9
+ december=10 
+ January=11
+ February=12
+Please Enter Your Day of birth as a number between 1-31:14
+Please Enter Your birth Month as a number between 1-21:7
+Please Enter Year:1986
+Please Enter Century:19
+Michael Asare was born on 14 / 7 / 1986 In the  19 Century
+Day is Tuesday
+>>> 
